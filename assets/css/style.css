@@ -1,0 +1,26 @@
+/*================================================================================
+    Item Name: Robust - Responsive Admin Theme
+    Version: 1.0
+    Author: PIXINVENT
+    Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+ 
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+.navbar{
+    background: #fff;
+    box-shadow: 7px 7px 7px #ecf0f1;
+}
+.nav-pills > li.active> a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
+    background: #0277BD;
+    color:#fff;
+    font-weight: 500;
+}
+.padd{
+    margin-top:6px;
+}
+.nav-pills li a{
+    color:#0277BD;
+}
