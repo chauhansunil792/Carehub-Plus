@@ -35,4 +35,4 @@ Functionalities:
     digireports for carrying patient reports
     Graphs nad charts for presenting Dieseas spreading.
     and many other.
-
+ 
